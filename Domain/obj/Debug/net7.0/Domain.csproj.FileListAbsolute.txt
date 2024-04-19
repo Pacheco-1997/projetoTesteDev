@@ -1,0 +1,12 @@
+C:\Users\vpach\OneDrive\Área de Trabalho\projetoTesteDev\Domain\bin\Debug\net7.0\Domain.deps.json
+C:\Users\vpach\OneDrive\Área de Trabalho\projetoTesteDev\Domain\bin\Debug\net7.0\Domain.dll
+C:\Users\vpach\OneDrive\Área de Trabalho\projetoTesteDev\Domain\bin\Debug\net7.0\Domain.pdb
+C:\Users\vpach\OneDrive\Área de Trabalho\projetoTesteDev\Domain\obj\Debug\net7.0\Domain.csproj.AssemblyReference.cache
+C:\Users\vpach\OneDrive\Área de Trabalho\projetoTesteDev\Domain\obj\Debug\net7.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vpach\OneDrive\Área de Trabalho\projetoTesteDev\Domain\obj\Debug\net7.0\Domain.AssemblyInfoInputs.cache
+C:\Users\vpach\OneDrive\Área de Trabalho\projetoTesteDev\Domain\obj\Debug\net7.0\Domain.AssemblyInfo.cs
+C:\Users\vpach\OneDrive\Área de Trabalho\projetoTesteDev\Domain\obj\Debug\net7.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\vpach\OneDrive\Área de Trabalho\projetoTesteDev\Domain\obj\Debug\net7.0\Domain.dll
+C:\Users\vpach\OneDrive\Área de Trabalho\projetoTesteDev\Domain\obj\Debug\net7.0\refint\Domain.dll
+C:\Users\vpach\OneDrive\Área de Trabalho\projetoTesteDev\Domain\obj\Debug\net7.0\Domain.pdb
+C:\Users\vpach\OneDrive\Área de Trabalho\projetoTesteDev\Domain\obj\Debug\net7.0\ref\Domain.dll
